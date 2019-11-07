@@ -1,37 +1,25 @@
 # Quickly Testing Qt Desktop Applications
 
-## Structuring projects to add tests
+* **Structuring projects to add tests**
+    * [Arne Mertz's "Hello CMake" series](https://arne-mertz.de/2018/05/hello-cmake/)
+* **C++ Test Frameworks and Qt**
+    * Qt Test
+        * [Qt's "Qt Test" reference](https://doc.qt.io/qt-5/qttest-index.html)
+        * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) and ["Writing good tests"](https://wiki.qt.io/Writing_good_tests)
+        * Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
+        * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
+    * Catch2
+        * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
+* **Approval Tests**
+    * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
+    * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
+    * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
+* **Continuous Integration**
+    * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
+* **Refactoring - once code is tested**
+    * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
 
-* [Arne Mertz's "Hello CMake" series](https://arne-mertz.de/2018/05/hello-cmake/)
-
-## C++ Test Frameworks
-
-### Qt Test
-
-* [Qt's "Qt Test" reference](https://doc.qt.io/qt-5/qttest-index.html)
-* [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) and ["Writing good tests"](https://wiki.qt.io/Writing_good_tests)
-* Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
-* [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
-
-### Catch2
-
-* [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
-
-## Approval Tests
-
-* [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
-* [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
-* [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
-
-## Continuous Integration
-
-* [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
-
-## Refactoring - once code is tested
-
-* [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
-
-## Clare Macrae
+### Clare Macrae
 
 * Blog
 * Presentations
