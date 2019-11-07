@@ -1,6 +1,4 @@
-# Talks
-
-Resources and references for my talks:
+# Resources and references for my talks
 
 * ["Quickly Testing Qt Desktop Applications"](Quickly_Testing_Qt_Desktop_Applications.md)
 
