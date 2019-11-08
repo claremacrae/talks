@@ -20,6 +20,7 @@
     * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
     * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
+    * ApprovalTests.cpp.Qt.StarterProject
 * **Continuous Integration**
     * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
 * **Refactoring - once code is tested**
