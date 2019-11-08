@@ -4,10 +4,16 @@
     * [Arne Mertz's "Hello CMake" series](https://arne-mertz.de/2018/05/hello-cmake/)
 * **C++ Test Frameworks and Qt**
     * Qt Test
-        * [Qt's "Qt Test" reference](https://doc.qt.io/qt-5/qttest-index.html)
+        * [Qt's "Qt Test" home page](https://doc.qt.io/qt-5/qttest-index.html)
+        * [Qt's "Qt Test C++ Classes" reference page](https://doc.qt.io/qt-5/qttest-module.html)
         * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) and ["Writing good tests"](https://wiki.qt.io/Writing_good_tests)
         * Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
-        * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
+        * Combining multiple tests in to one application:
+            * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
+            * [Jaded Biologist on "Using QtTest Effectively"](https://alexhuszagh.github.io/2016/using-qttest-effectively/)
+        * Generally useful pages
+            * [Increase your QTest productivity](https://marcoarena.wordpress.com/tag/qtest-fixture/) - another auto-registering mechanism, how to create fixtures, and colour-coding test output
+            * [ICS's slides on "QtTest Unit Testing Framework](https://www.slideshare.net/ICSinc/qt-test-framework)
     * Catch2
         * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
 * **Approval Tests**
