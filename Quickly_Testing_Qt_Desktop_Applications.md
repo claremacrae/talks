@@ -6,7 +6,8 @@
     * Qt Test
         * [Qt's "Qt Test" home page](https://doc.qt.io/qt-5/qttest-index.html)
         * [Qt's "Qt Test C++ Classes" reference page](https://doc.qt.io/qt-5/qttest-module.html)
-        * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) and ["Writing good tests"](https://wiki.qt.io/Writing_good_tests)
+        * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) - now in transit to new location: [Qt Test Best Practices](https://doc-snapshots.qt.io/qt5-5.13/qttest-best-practices-qdoc.html)
+        * [Qt's "Writing good tests"](https://wiki.qt.io/Writing_good_tests)
         * Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
         * Combining multiple tests in to one application:
             * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
