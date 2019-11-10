@@ -30,9 +30,12 @@
 
 ### Clare Macrae
 
-* Blog
-* Presentations
-* Hire Me
+I am a consultant and trainer.
+
+* [Website](https://claremacrae.co.uk)
+* [Blog](https://claremacrae.co.uk/blog/)
+* [Presentations](https://claremacrae.co.uk/conferences/presentations.html)
+* [Hire Me](https://claremacrae.co.uk/consulting/hire_me.html)
 
 ### Appendix
 
