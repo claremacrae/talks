@@ -8,6 +8,7 @@
         * [Qt's "Qt Test C++ Classes" reference page](https://doc.qt.io/qt-5/qttest-module.html)
         * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) - now in transit to new location: [Qt Test Best Practices](https://doc-snapshots.qt.io/qt5-5.13/qttest-best-practices-qdoc.html)
         * [Qt's "Writing good tests"](https://wiki.qt.io/Writing_good_tests)
+        * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
     * Catch2
         * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
     * Google Test and Google Mock
@@ -41,7 +42,6 @@ I am a consultant and trainer.
     * Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
     * Generally useful pages
         * [Increase your QTest productivity](https://marcoarena.wordpress.com/tag/qtest-fixture/) - another auto-registering mechanism, how to create fixtures, and colour-coding test output
-        * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
 * **Qt Test executables**
     * Qt Tests only supports one test QObject per executable, generating large numbers of exes
     * Various people have tried to work around this - the following links may be useful
