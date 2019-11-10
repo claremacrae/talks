@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Quickly Testing Qt Desktop Applications
 
 * **Structuring projects to add tests**
