@@ -26,6 +26,8 @@
     * ApprovalTests.cpp.Qt.StarterProject
 * **Continuous Integration**
     * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
+* Tools
+    * [KDAB GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/)
 * **Refactoring - once code is tested**
     * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
 
