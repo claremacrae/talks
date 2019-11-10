@@ -9,9 +9,6 @@
         * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) - now in transit to new location: [Qt Test Best Practices](https://doc-snapshots.qt.io/qt5-5.13/qttest-best-practices-qdoc.html)
         * [Qt's "Writing good tests"](https://wiki.qt.io/Writing_good_tests)
         * Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
-        * Combining multiple tests in to one application:
-            * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
-            * [Jaded Biologist on "Using QtTest Effectively"](https://alexhuszagh.github.io/2016/using-qttest-effectively/)
         * Generally useful pages
             * [Increase your QTest productivity](https://marcoarena.wordpress.com/tag/qtest-fixture/) - another auto-registering mechanism, how to create fixtures, and colour-coding test output
             * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
@@ -36,3 +33,11 @@
 * Blog
 * Presentations
 * Hire Me
+
+### Appendix
+
+* **Qt Test executables**
+    * Qt Tests only supports one test QObject per executable, generating large numbers of exes
+    * Various people have tried to work around this - the following links may be useful
+        * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
+        * [Jaded Biologist on "Using QtTest Effectively"](https://alexhuszagh.github.io/2016/using-qttest-effectively/)
