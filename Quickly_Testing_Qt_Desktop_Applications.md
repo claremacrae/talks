@@ -13,11 +13,12 @@
     * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
 * Google Test and Google Mock
     * [ICS's slides on "Qt Test-Driven Development Using Google Test and Google Mock"](https://www.slideshare.net/ICSinc/webinar-qt-testdriven-development-using-google-test-and-google-mock)
-* [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
-* [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
-* [My "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
-* [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
-* [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
+* Approval Tests
+    * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
+    * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
+    * [My "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
+    * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
+    * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
 * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
 * [KDAB GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/)
 * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
