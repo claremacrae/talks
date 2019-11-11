@@ -15,9 +15,7 @@
     * [ICS's slides on "Qt Test-Driven Development Using Google Test and Google Mock"](https://www.slideshare.net/ICSinc/webinar-qt-testdriven-development-using-google-test-and-google-mock)
 * [KDAB GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/)
 * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
-* Qt Test
-    * [Qt's "Qt Test" home page](https://doc.qt.io/qt-5/qttest-index.html)
-    * [Qt's "Qt Test C++ Classes" reference page](https://doc.qt.io/qt-5/qttest-module.html)
+* [Qt Test](https://doc.qt.io/qt-5/qttest-index.html)
     * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) - now in transit to new location: [Qt Test Best Practices](https://doc-snapshots.qt.io/qt5-5.13/qttest-best-practices-qdoc.html)
     * [Qt's "Writing good tests"](https://wiki.qt.io/Writing_good_tests)
     * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
