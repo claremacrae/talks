@@ -21,6 +21,7 @@
     * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) - now in transit to new location: [Qt Test Best Practices](https://doc-snapshots.qt.io/qt5-5.13/qttest-best-practices-qdoc.html)
     * [Qt's "Writing good tests"](https://wiki.qt.io/Writing_good_tests)
     * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
+* [SuperCollider audio platform](https://supercollider.github.io)
 * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
 
 ### Clare Macrae
