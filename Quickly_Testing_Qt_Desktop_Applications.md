@@ -5,12 +5,12 @@
 * Approval Tests
     * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
     * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
-    * [My "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
     * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
 * [Arne Mertz's "Hello CMake" series](https://arne-mertz.de/2018/05/hello-cmake/)
 * Catch2
     * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
+* [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
 * Google Test and Google Mock
     * [ICS's slides on "Qt Test-Driven Development Using Google Test and Google Mock"](https://www.slideshare.net/ICSinc/webinar-qt-testdriven-development-using-google-test-and-google-mock)
 * [KDAB GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/)
