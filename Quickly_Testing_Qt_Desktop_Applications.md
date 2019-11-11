@@ -2,20 +2,20 @@
 
 # Quickly Testing Qt Desktop Applications
 
-* Approval Tests
+* [Approval Tests](https://approvaltests.com)
     * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
     * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
     * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
 * [Arne Mertz's "Hello CMake" series](https://arne-mertz.de/2018/05/hello-cmake/)
-* Catch2
+* [Catch2 test framework](https://github.com/catchorg/Catch2)
     * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
 * [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
-* Google Test and Google Mock
+* [Googletest - Google Testing and Mocking Framework](https://github.com/google/googletest)
     * [ICS's slides on "Qt Test-Driven Development Using Google Test and Google Mock"](https://www.slideshare.net/ICSinc/webinar-qt-testdriven-development-using-google-test-and-google-mock)
 * [KDAB GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/)
 * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
-* [Qt Test](https://doc.qt.io/qt-5/qttest-index.html)
+* [Qt Test framework](https://doc.qt.io/qt-5/qttest-index.html)
     * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) - now in transit to new location: [Qt Test Best Practices](https://doc-snapshots.qt.io/qt5-5.13/qttest-best-practices-qdoc.html)
     * [Qt's "Writing good tests"](https://wiki.qt.io/Writing_good_tests)
     * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
