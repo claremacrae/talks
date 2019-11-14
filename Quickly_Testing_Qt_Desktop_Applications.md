@@ -11,6 +11,7 @@
 * [Catch2 test framework](https://github.com/catchorg/Catch2)
     * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
 * [clazy - Qt related compiler warnings and fixits](https://github.com/KDE/clazy)
+    * [old-style-connect](https://github.com/KDE/clazy/blob/master/docs/checks/README-old-style-connect.md) - but do read the caveats.
 * [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
 * [Googletest - Google Testing and Mocking Framework](https://github.com/google/googletest)
     * [ICS's slides on "Qt Test-Driven Development Using Google Test and Google Mock"](https://www.slideshare.net/ICSinc/webinar-qt-testdriven-development-using-google-test-and-google-mock)
