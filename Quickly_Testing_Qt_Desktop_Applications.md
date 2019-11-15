@@ -23,6 +23,7 @@
     * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
 * [Squish GUI Test Automation Tool](https://www.froglogic.com/squish/)
 * [SuperCollider audio platform](https://supercollider.github.io)
+* [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
 * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
 
 ### Clare Macrae
