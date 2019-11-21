@@ -7,6 +7,7 @@
     * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
     * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
+    * [CppCon talk: Quickly Testing Legacy C++ Code with Approval Tests](https://www.youtube.com/watch?v=3GZHvcdq32s)
 * [CodeCoverage.cmake](https://github.com/bilke/cmake-modules/blob/master/CodeCoverage.cmake)
 * [Coverage-directed fuzzing: "Testing Legacy Code - Fuzzing for Better Input Data" - by Tina Ulbrich and Niel Waldren](https://meetingcpp.com/mcpp/slides/2019/Testing%20Legacy%20Code%20-%20Fuzzing%20for%20Better%20Input%20Data.pdf)
 * Code Katas - practice exercises
