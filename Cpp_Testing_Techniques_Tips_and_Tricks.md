@@ -17,6 +17,8 @@
     * [Part 1: Introducing the Gilded Rose kata and writing test cases using Approval Tests](https://www.praqma.com/stories/advanced-testing-refactoring-techniques/)
     * [Part 2: Refactoring item logic using ‘lift up conditional’](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/)
     * [Part 3: Replace Conditional with Polymorphism](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-3/)
+* [Kevlin Henney's FizzBuzz Trek HD](https://www.youtube.com/watch?v=LueeMTTDePg) - Property Based Testing
+* [RapidCheck - C++ Property Based Testing](https://github.com/emil-e/rapidcheck)
 
 
 ### Clare Macrae
