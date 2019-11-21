@@ -19,6 +19,9 @@
     * [Part 2: Refactoring item logic using ‘lift up conditional’](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/)
     * [Part 3: Replace Conditional with Polymorphism](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-3/)
 * [Kevlin Henney's FizzBuzz Trek HD](https://www.youtube.com/watch?v=LueeMTTDePg) - Property Based Testing
+* Qt Applications
+    * [My references for "Quickly Testing Qt Desktop Applications"](Quickly_Testing_Qt_Desktop_Applications.md#top)
+    * [Slides for that talk](https://www.slideshare.net/ClareMacrae/quickly-testing-qt-desktop-applications)
 * [RapidCheck - C++ Property Based Testing](https://github.com/emil-e/rapidcheck)
 * Test Frameworks for C++
     * [Catch2 test framework](https://github.com/catchorg/Catch2)
