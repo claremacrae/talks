@@ -8,8 +8,11 @@
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
     * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
 * [CodeCoverage.cmake](https://github.com/bilke/cmake-modules/blob/master/CodeCoverage.cmake)
-* [Coverage-directed fuzzing: "Testing Legacy Code - Fuzzing for Better Input Data" - by Tina Ulbrich and Niel Waldren](https://meetingcpp.com/mcpp/slides/2019/Testing%20Legacy%20Code%20-%20Fuzzing%20for%20Better%20Input%20Data.pdf) 
-* [Emily Bache's GildedRose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+* [Coverage-directed fuzzing: "Testing Legacy Code - Fuzzing for Better Input Data" - by Tina Ulbrich and Niel Waldren](https://meetingcpp.com/mcpp/slides/2019/Testing%20Legacy%20Code%20-%20Fuzzing%20for%20Better%20Input%20Data.pdf)
+* Code Katas - practice exercises
+    * [Cyber Dojo](https://cyber-dojo.org)
+    * [Emily Bache's GildedRose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+    * [Emily Bache's Katas](https://github.com/emilybache?utf8=✓&tab=repositories&q=kata)
 * Emily Bache's "Advanced Testing & Refactoring Techniques" series:
     * [Part 1: Introducing the Gilded Rose kata and writing test cases using Approval Tests](https://www.praqma.com/stories/advanced-testing-refactoring-techniques/)
     * [Part 2: Refactoring item logic using ‘lift up conditional’](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/)
