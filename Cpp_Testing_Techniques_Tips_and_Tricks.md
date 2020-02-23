@@ -8,6 +8,10 @@
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
     * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
     * [CppCon talk: Quickly Testing Legacy C++ Code with Approval Tests](https://www.youtube.com/watch?v=3GZHvcdq32s)
+* Books
+    * [The Art of Unit Testing: With Examples in .NET](https://www.manning.com/books/the-art-of-unit-testing)
+    * [The Art of Unit Testing, Second Edition with examples in C#](https://www.manning.com/books/the-art-of-unit-testing-second-edition)
+    * [The Art of Unit Testing, Third Edition with JavaScript examples](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
 * [CodeCoverage.cmake](https://github.com/bilke/cmake-modules/blob/master/CodeCoverage.cmake)
 * [Coverage-directed fuzzing: "Testing Legacy Code - Fuzzing for Better Input Data" - by Tina Ulbrich and Niel Waldren](https://meetingcpp.com/mcpp/slides/2019/Testing%20Legacy%20Code%20-%20Fuzzing%20for%20Better%20Input%20Data.pdf)
 * Code Katas - practice exercises
