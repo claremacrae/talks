@@ -8,6 +8,9 @@
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
     * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
 * [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
+* Code Coverage
+    * [Set up Code Coverage on macOS](HowTos/Set_up_Code_Coverage_on_macOS.md)
+    * [Set up Code Coverage on Windows](HowTos/Set_up_Code_Coverage_on_Windows.md)
 * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
 
 ### Clare Macrae
