@@ -2,6 +2,16 @@
 
 # How to use Approval Tests for C++ Effectively
 
+## Demo Code
+
+* This talk is mostly demo-based
+* The demo code is at:
+    * [github.com/claremacrae/approvals_live_demo](https://github.com/claremacrae/approvals_live_demo/)
+    * As I give this talk, I tag the versions presented, as the demos and ApprovalTests.cpp library will evolve over time:
+        * [Tag: 2020-06-CppEurope](https://github.com/claremacrae/approvals_live_demo/tree/2020-06-CppEurope/): CppEurope #4, 23 June 2020
+
+## Links
+
 * [Approval Tests](https://approvaltests.com)
     * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
     * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
