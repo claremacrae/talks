@@ -17,6 +17,14 @@
     * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
     * [ApprovalTests.cpp.Qt](https://github.com/approvals/ApprovalTests.cpp.Qt)
     * [ApprovalTests.cpp.Qt.StarterProject](https://github.com/approvals/ApprovalTests.cpp.Qt.StarterProject)
+* ApprovalTests.cpp User Guide
+    * [User Guide on Read the Docs](https://approvaltestscpp.readthedocs.io/en/latest/)
+    * [User Guide on GitHub](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/README.md#top)
+* User Guide pages mentioned
+    * [String Conversions](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/ToString.md)
+    * [How to Use the Fmt Library To Print Objects](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/how_tos/UseTheFmtLibraryToPrintObjects.md)
+    * [Tips for Designing Strings](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/explanations/TipsForDesigningStrings.md#top)
+    * [Multiple output files per test](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/MultipleOutputFilesPerTest.md)
 * [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
 * Code Coverage
     * [Set up Code Coverage on macOS](HowTos/Set_up_Code_Coverage_on_macOS.md)
@@ -27,6 +35,7 @@
       * [Part 1: Introducing the Gilded Rose kata and writing test cases using Approval Tests](https://www.praqma.com/stories/advanced-testing-refactoring-techniques/)
       * [Part 2: Refactoring item logic using ‘lift up conditional’](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/)
       * [Part 3: Replace Conditional with Polymorphism](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-3/)
+* [Angie Jones' "Verifying Entire API Responeses"](https://angiejones.tech/verifying-entire-api-responses/)
 * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
 
 ### Clare Macrae
