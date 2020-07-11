@@ -14,8 +14,4 @@ This section is for small topics that I want to shared instructions or other det
     * [Set up Code Coverage on macOS](HowTos/Set_up_Code_Coverage_on_macOS.md)
     * [Set up Code Coverage on Windows](HowTos/Set_up_Code_Coverage_on_Windows.md)
 
-Set_up_Code_Coverage_on_macOS
-Set_up_Code_Coverage_on_Windows
-
-
 See also my [list of past and future presentations](https://claremacrae.co.uk/conferences/presentations.html).
