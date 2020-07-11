@@ -4,6 +4,7 @@
 
 * ["C++ Testing Techniques Tips and Tricks"](Cpp_Testing_Techniques_Tips_and_Tricks.md#top)
 * ["How to use Approval Tests for C++ Effectively"](How_to_use_Approval_Tests_for_C++_Effectively.md#top)
+* ["Quickly and Effectively Testing Legacy C++ Code with Approval Tests"](Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top)
 * ["Quickly Testing Qt Desktop Applications"](Quickly_Testing_Qt_Desktop_Applications.md#top)
 
 ## Detailed snippets and instructions
