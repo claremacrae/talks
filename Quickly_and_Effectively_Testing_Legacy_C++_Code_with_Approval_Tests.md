@@ -38,6 +38,7 @@
       * [Part 1: Introducing the Gilded Rose kata and writing test cases using Approval Tests](https://www.praqma.com/stories/advanced-testing-refactoring-techniques/)
       * [Part 2: Refactoring item logic using ‘lift up conditional’](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/)
       * [Part 3: Replace Conditional with Polymorphism](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-3/)
+* [Simon Cropp's "EmptyFiles project"](https://github.com/SimonCropp/EmptyFiles)
 * [Angie Jones' "Verifying Entire API Responeses"](https://angiejones.tech/verifying-entire-api-responses/)
 * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
 
