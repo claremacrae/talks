@@ -1,5 +1,9 @@
 # Workshop: Testing Legacy Code Effectively with Approval Tests
 
+## Next Training Session
+
+* [September 2020](https://www.eventbrite.com/e/workshop-testing-legacy-code-effectively-with-approval-tests-tickets-114343683034)
+
 ## Course Materials
 
 * [Resources](https://github.com/claremacrae/talks/blob/main/Workshop_Testing_Legacy_Code_Effectively_with_Approval_Tests.md#top) (this file)
