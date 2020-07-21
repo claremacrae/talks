@@ -7,6 +7,10 @@
 * ["Quickly and Effectively Testing Legacy C++ Code with Approval Tests"](Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top)
 * ["Quickly Testing Qt Desktop Applications"](Quickly_Testing_Qt_Desktop_Applications.md#top)
 
+## Workshops
+
+* [Workshop: Testing Legacy Code Effectively with Approval Tests](Workshop_Testing_Legacy_Code_Effectively_with_Approval_Tests.md#top)
+
 ## Detailed snippets and instructions
 
 This section is for small topics that I want to shared instructions or other details for, which would take up too much space in slides, or might become outdated and change over time.
