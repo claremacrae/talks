@@ -31,7 +31,7 @@
     * [How to Use the Fmt Library To Print Objects](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/how_tos/UseTheFmtLibraryToPrintObjects.md)
     * [Tips for Designing Strings](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/explanations/TipsForDesigningStrings.md#top)
     * [Multiple output files per test](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/MultipleOutputFilesPerTest.md)
-* [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
+* [Clare Macrae's other talks](https://claremacrae.co.uk/conferences/presentations.html)
 * Code Coverage
     * [Set up Code Coverage on macOS](HowTos/Set_up_Code_Coverage_on_macOS.md)
     * [Set up Code Coverage on Windows](HowTos/Set_up_Code_Coverage_on_Windows.md)
