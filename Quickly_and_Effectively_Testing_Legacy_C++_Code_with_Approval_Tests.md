@@ -11,6 +11,7 @@
         * [Tag: 2020-06-CppEurope](https://github.com/claremacrae/approvals_live_demo/tree/2020-06-CppEurope/): CppEurope #4, 23 June 2020
         * [Branch: 2020-07-cpp-on-sea-branch](https://github.com/claremacrae/approvals_live_demo/tree/2020-07-cpp-on-sea-branch): C++ on Sea, 15 July 2020
             * contains the [changes I made during the demo](https://github.com/claremacrae/approvals_live_demo/compare/2020-07-cpp-on-sea-start-point...2020-07-cpp-on-sea-end-point)
+        * MUC++, 6 August 2020 (code coming soon)
 
 ## Next Training Session
 
