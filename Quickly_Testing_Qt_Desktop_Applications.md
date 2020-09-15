@@ -29,6 +29,8 @@
 * [SuperCollider audio platform](https://supercollider.github.io)
 * [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
 * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
+* [Xvfb](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml) - virtual framebuffer X server for X11
+    * [Xvfb on Wikipedia](https://en.wikipedia.org/wiki/Xvfb)
 
 ### Clare Macrae
 
