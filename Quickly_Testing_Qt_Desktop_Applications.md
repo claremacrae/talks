@@ -26,6 +26,7 @@
     * [QApplication command-line arguments](https://doc.qt.io/qt-5/qguiapplication.html#QGuiApplication)
         * [Supported platform names](https://doc.qt.io/qt-5/qguiapplication.html#platformName-prop) - for example, run your tests with `-platform offscreen` to avoid Widgets flashing up
 * [Squish GUI Test Automation Tool](https://www.froglogic.com/squish/)
+    * Coming soon: [Frerich Raabe's "Behavior-Driven GUI Test Automation of Qt Applications"](https://www.qtdesktopdays.com/timetable/event/behavior-driven-gui-test-automation-of-qt-applications/)
 * [SuperCollider audio platform](https://supercollider.github.io)
 * [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
 * [Travis CI's "GUI and Headless Browser Testing"](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
