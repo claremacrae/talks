@@ -10,6 +10,7 @@
 * [Arne Mertz's "Hello CMake" series](https://arne-mertz.de/2018/05/hello-cmake/)
 * [Catch2 test framework](https://github.com/catchorg/Catch2)
     * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
+    * [Catch2 test command-line arguments](https://github.com/catchorg/Catch2/blob/master/docs/command-line.md)
 * [clazy - Qt related compiler warnings and fixits](https://github.com/KDE/clazy)
     * [old-style-connect](https://github.com/KDE/clazy/blob/master/docs/checks/README-old-style-connect.md) - but do read the caveats.
 * [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
@@ -22,6 +23,8 @@
     * [Qt's "Writing Unit Tests"](https://wiki.qt.io/Writing_Unit_Tests) - now in transit to new location: [Qt Test Best Practices](https://doc-snapshots.qt.io/qt5-5.13/qttest-best-practices-qdoc.html)
     * [Qt's "Writing good tests"](https://wiki.qt.io/Writing_good_tests)
     * [ICS's slides on "QtTest Unit Testing Framework"](https://www.slideshare.net/ICSinc/qt-test-framework) - with a link to the video of the talk
+    * [QApplication command-line arguments](https://doc.qt.io/qt-5/qguiapplication.html#QGuiApplication)
+        * [Supported platform names](https://doc.qt.io/qt-5/qguiapplication.html#platformName-prop) - for example, run your tests with `-platform offscreen` to avoid Widgets flashing up
 * [Squish GUI Test Automation Tool](https://www.froglogic.com/squish/)
 * [SuperCollider audio platform](https://supercollider.github.io)
 * [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
