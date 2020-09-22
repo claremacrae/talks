@@ -2,7 +2,7 @@
 
 ## Next Training Session
 
-* [September 2020](https://www.eventbrite.com/e/workshop-testing-legacy-code-effectively-with-approval-tests-tickets-114343683034)
+* [November 2020](https://bit.ly/LegacyCppNov2020)
 
 ## Course Materials
 
