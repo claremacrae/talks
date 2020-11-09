@@ -7,8 +7,10 @@
 
   * [Demo Code](#demo-code)
   * [Links](#links)
-    * [Clare Macrae](#clare-macrae)
-    * [Appendix](#appendix)<!-- endToc -->
+  * [Clare Macrae](#clare-macrae)
+  * [Appendix](#appendix)
+    * [Qt Test Info](#qt-test-info)
+    * [Qt Test executables](#qt-test-executables)<!-- endToc -->
 
 ## Demo Code
 
@@ -51,7 +53,7 @@
 * [Xvfb](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml) - virtual framebuffer X server for X11
     * [Xvfb on Wikipedia](https://en.wikipedia.org/wiki/Xvfb)
 
-### Clare Macrae
+## Clare Macrae
 
 I am a consultant and trainer.
 
@@ -60,14 +62,17 @@ I am a consultant and trainer.
 * [Presentations](https://claremacrae.co.uk/conferences/presentations.html)
 * [Hire Me](https://claremacrae.co.uk/consulting/hire_me.html)
 
-### Appendix
+## Appendix
 
-* **Qt Test Info**
-    * Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
-    * Generally useful pages
-        * [Increase your QTest productivity](https://marcoarena.wordpress.com/tag/qtest-fixture/) - another auto-registering mechanism, how to create fixtures, and colour-coding test output
-* **Qt Test executables**
-    * Qt Tests only supports one test QObject per executable, generating large numbers of exes
-    * Various people have tried to work around this - the following links may be useful
-        * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
-        * [Jaded Biologist on "Using QtTest Effectively"](https://alexhuszagh.github.io/2016/using-qttest-effectively/)
+### Qt Test Info
+
+* Example: [QGIS Unit Testing](https://docs.qgis.org/3.4/en/docs/developers_guide/unittesting.html) and [QGIS's test code](https://github.com/qgis/QGIS/tree/master/tests)
+* Generally useful pages
+    * [Increase your QTest productivity](https://marcoarena.wordpress.com/tag/qtest-fixture/) - another auto-registering mechanism, how to create fixtures, and colour-coding test output
+
+### Qt Test executables
+
+* Qt Tests only supports one test QObject per executable, generating large numbers of exes
+* Various people have tried to work around this - the following links may be useful
+    * [Unofficial Qt Creator Blog on "Running Multiple Unit Tests" in one Qt Test program](http://qtcreator.blogspot.com/2009/10/running-multiple-unit-tests.html)
+    * [Jaded Biologist on "Using QtTest Effectively"](https://alexhuszagh.github.io/2016/using-qttest-effectively/)
