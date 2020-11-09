@@ -1,5 +1,11 @@
 # Set up C++ Code Coverage on macOS
 
+<!-- toc -->
+## Contents
+
+  * [Line coverage with CMake in CLion](#line-coverage-with-cmake-in-clion)
+  * [Branch coverage with CMake](#branch-coverage-with-cmake)<!-- endToc -->
+
 ## Line coverage with CMake in CLion
 
 I got this setup working on macOS:

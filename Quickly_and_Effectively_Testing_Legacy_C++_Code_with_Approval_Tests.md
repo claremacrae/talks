@@ -2,6 +2,14 @@
 
 # Quickly and Effectively Testing Legacy C++ Code with Approval Tests
 
+<!-- toc -->
+## Contents
+
+  * [Demo Code](#demo-code)
+  * [Next Training Session](#next-training-session)
+  * [Links](#links)
+  * [Clare Macrae](#clare-macrae)<!-- endToc -->
+
 ## Demo Code
 
 * This talk is mostly demo-based
@@ -46,7 +54,7 @@
 * [Angie Jones' "Verifying Entire API Responeses"](https://angiejones.tech/verifying-entire-api-responses/)
 * [Llewellyn Falco and Woody Zuill's "Practical Refactoring: 2 Minutes to Better Code"](https://youtu.be/aWiwDdx_rdo)
 
-### Clare Macrae
+## Clare Macrae
 
 I am a consultant and trainer.
 

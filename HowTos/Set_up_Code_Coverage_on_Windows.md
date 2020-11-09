@@ -1,5 +1,12 @@
 # Set up C++ Code Coverage on Windows
 
+<!-- toc -->
+## Contents
+
+  * [Line coverage in Visual Studio](#line-coverage-in-visual-studio)
+  * [Branch coverage in Visual Studio](#branch-coverage-in-visual-studio)
+  * [Line coverage in CLion](#line-coverage-in-clion)<!-- endToc -->
+
 ## Line coverage in Visual Studio
 
 [OpenCppCoverage](https://github.com/OpenCppCoverage/OpenCppCoverage) has a Visual Studio plugin called [OpenCppCoveragePlugin](https://github.com/OpenCppCoverage/OpenCppCoveragePlugin) which can be used to collect line-coverage measurements in Visual Studio.
