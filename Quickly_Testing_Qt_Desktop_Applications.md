@@ -2,6 +2,14 @@
 
 # Quickly Testing Qt Desktop Applications
 
+<!-- toc -->
+## Contents
+
+  * [Demo Code](#demo-code)
+  * [Links](#links)
+    * [Clare Macrae](#clare-macrae)
+    * [Appendix](#appendix)<!-- endToc -->
+
 ## Demo Code
 
 * This talk is partly demo-based
