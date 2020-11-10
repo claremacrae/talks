@@ -30,6 +30,7 @@
 * [Arne Mertz's "Hello CMake" series](https://arne-mertz.de/2018/05/hello-cmake/)
 * [Catch2 test framework](https://github.com/catchorg/Catch2)
     * [FrogLogic's "Unit tests for Qt-based applications with Catch"](https://www.froglogic.com/blog/tip-of-the-week/unit-tests-for-qt-based-applications-with-catch/)
+    * [Testing Qt Code with Catch](https://dzone.com/articles/unit-tests-for-qt-based-applications-with-catch)
     * [Catch2 test command-line arguments](https://github.com/catchorg/Catch2/blob/master/docs/command-line.md)
 * [clazy - Qt related compiler warnings and fixits](https://github.com/KDE/clazy)
     * [old-style-connect](https://github.com/KDE/clazy/blob/master/docs/checks/README-old-style-connect.md) - but do read the caveats.
