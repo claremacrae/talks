@@ -42,6 +42,9 @@
     * [Testing exception messages](https://approvaltestscpp.readthedocs.io/en/latest/generated_docs/TestingExceptions.html)
     * [Controlling where Approval Tests puts the approved and received files](https://approvaltestscpp.readthedocs.io/en/latest/generated_docs/Configuration.html#using-sub-directories-for-approved-files)
 * Emily Bache's [Approval Tools](https://github.com/emilybache/ApprovalTools) - some scripts for bulk-reviewing and approving Approval Tests failures
+* Code Coverage
+    * [Set up Code Coverage on macOS](HowTos/Set_up_Code_Coverage_on_macOS.md)
+    * [Set up Code Coverage on Windows](HowTos/Set_up_Code_Coverage_on_Windows.md)
 
 ## Links
 
