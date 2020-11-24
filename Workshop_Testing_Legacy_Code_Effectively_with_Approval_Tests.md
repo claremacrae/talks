@@ -3,7 +3,6 @@
 <!-- toc -->
 ## Contents
 
-  * [Next Training Session](#next-training-session)
   * [Course Materials](#course-materials)
   * [Approval Tests](#approval-tests)
   * [Techniques](#techniques)
@@ -12,9 +11,7 @@
     * [Clare Macrae](#clare-macrae)
     * [Llewellyn Falco](#llewellyn-falco)<!-- endToc -->
 
-## Next Training Session
-
-* [November 2020](https://bit.ly/LegacyCppNov2020)
+<!-- ## Next Training Session -->
 
 ## Course Materials
 
