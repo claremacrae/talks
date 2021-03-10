@@ -9,7 +9,11 @@ _Make your IDE do your work, faster and more safely_
 
   * [Sudoku Kata](#sudoku-kata)
   * [Testing](#testing)
+    * [Approval Tests](#approval-tests)
+    * [About Testing](#about-testing)
   * [Refactoring](#refactoring)
+    * [Books and Resources](#books-and-resources)
+    * [Videos](#videos)
   * [Clare Macrae](#clare-macrae)<!-- endToc -->
 
 ## Sudoku Kata
