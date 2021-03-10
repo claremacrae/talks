@@ -6,6 +6,7 @@
 * ["How to use Approval Tests for C++ Effectively"](How_to_use_Approval_Tests_for_C++_Effectively.md#top)
 * ["Quickly and Effectively Testing Legacy C++ Code with Approval Tests"](Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top)
 * ["Quickly Testing Qt Desktop Applications"](Quickly_Testing_Qt_Desktop_Applications.md#top)
+* ["Refactoring Superpowers: make your IDE do your work, faster and more safely"](Refactoring_Superpowers.md#top)
 
 ## Workshops
 
