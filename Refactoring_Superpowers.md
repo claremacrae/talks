@@ -45,6 +45,8 @@ _Make your IDE do your work, faster and more safely_
 * Book: Martin Fowler's [Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
 * [Refactoring.com](https://refactoring.com)
     * [Online catalog of refactorings](https://refactoring.com/catalog/)
+* [Provable Refactorings](https://github.com/digdeeproots/provable-refactorings):
+    * A collection of refactoring recipes that are provably safe. Each recipe is language-specific and rests on the rules of that language. Within that language, each will either terminate with a clear failure or will complete in a way that guarantees no change in behavior.
 
 ### Videos
 
