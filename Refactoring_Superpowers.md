@@ -18,7 +18,6 @@ _Make your IDE do your work, faster and more safely_
 ## Sudoku Kata
 
 * [zoran-horvat/sudoku-kata](https://github.com/zoran-horvat/sudoku-kata)
-* [claremacrae/sudoku-kata](https://github.com/claremacrae/sudoku-kata)
 
 ## Testing
 
