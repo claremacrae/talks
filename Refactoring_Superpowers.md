@@ -10,7 +10,6 @@ _Make your IDE do your work, faster and more safely_
   * [Sudoku Kata](#sudoku-kata)
   * [Testing](#testing)
     * [Approval Tests](#approval-tests)
-    * [About Testing](#about-testing)
   * [Refactoring](#refactoring)
     * [Books and Resources](#books-and-resources)
     * [Videos](#videos)
@@ -33,10 +32,6 @@ _Make your IDE do your work, faster and more safely_
         * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
         * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
 * [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
-
-### About Testing
-
-* [Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
 
 ## Refactoring
 
