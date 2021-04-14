@@ -18,6 +18,13 @@ _Make your IDE do your work, faster and more safely_
 ## Sudoku Kata
 
 * [zoran-horvat/sudoku-kata](https://github.com/zoran-horvat/sudoku-kata)
+* [claremacrae/sudoku-kata](https://github.com/claremacrae/sudoku-kata)
+    * [add-tests](https://github.com/claremacrae/sudoku-kata/tree/add-tests) branch
+      * with Approval Tests added
+    * [simpler-tests](https://github.com/claremacrae/sudoku-kata/tree/simpler-tests) branch
+      * with simpler test code, and shorter history
+    * [demo-1](https://github.com/claremacrae/sudoku-kata/tree/demo-1) branch
+      * with "Solve puzzle from the internet" feature added
 
 ## Testing
 
