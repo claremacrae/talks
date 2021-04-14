@@ -30,7 +30,9 @@ _Make your IDE do your work, faster and more safely_
     * C++
         * [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp)
         * [ApprovalTests.cpp.StarterProject](https://github.com/approvals/ApprovalTests.cpp.StarterProject)
-* [Clare Macrae's "Quickly Testing Legacy Code" talk at C++ on Sea 2019](https://www.youtube.com/watch?v=dtm8V3TIB6k)
+* My talks on Approval Tests
+    * ["Quickly Testing Legacy Code" talk](https://www.youtube.com/watch?v=dtm8V3TIB6k) at C++ on Sea 2019
+    * All [past talks on Approval Tests](https://claremacrae.co.uk/conferences/presentations_by_topic.html#testing-legacy-c-code-with-approval-tests)
 
 ## Refactoring
 
