@@ -8,6 +8,8 @@ _Make your IDE do your work, faster and more safely_
 ## Contents
 
   * [Sudoku Kata](#sudoku-kata)
+    * [C# Version](#c-version)
+    * [C++ Version](#c-version)
   * [Testing](#testing)
     * [Approval Tests](#approval-tests)
   * [Refactoring](#refactoring)
@@ -17,6 +19,8 @@ _Make your IDE do your work, faster and more safely_
 
 ## Sudoku Kata
 
+### C# Version
+
 * [zoran-horvat/sudoku-kata](https://github.com/zoran-horvat/sudoku-kata)
 * [claremacrae/sudoku-kata](https://github.com/claremacrae/sudoku-kata)
     * [add-tests](https://github.com/claremacrae/sudoku-kata/tree/add-tests) branch
@@ -25,6 +29,12 @@ _Make your IDE do your work, faster and more safely_
       * with simpler test code, and shorter history
     * [demo-1](https://github.com/claremacrae/sudoku-kata/tree/demo-1) branch
       * with "Solve puzzle from the internet" feature added
+
+### C++ Version
+
+* [claremacrae/sudoku-kata-cpp](https://github.com/claremacrae/sudoku-kata-cpp)
+    * [with-tests](https://github.com/claremacrae/sudoku-kata-cpp/tree/with-tests) branch
+        * with Approval Tests added
 
 ## Testing
 
