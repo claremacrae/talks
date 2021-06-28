@@ -7,6 +7,7 @@
     * [Line coverage in Visual Studio](#line-coverage-in-visual-studio)
     * [Branch coverage in Visual Studio](#branch-coverage-in-visual-studio)
   * [CLion](#clion)
+    * [Introduction](#introduction)
     * [Set up clang-cl in CLion on Windows](#set-up-clang-cl-in-clion-on-windows)
     * [Enable exceptions for clang-cl](#enable-exceptions-for-clang-cl)
     * [CLion Native Coverage Tool - Line Coverage](#clion-native-coverage-tool---line-coverage)
@@ -29,7 +30,16 @@ I have had good results with the commercial tool [BullseyeCoverage](https://www.
 
 ## CLion
 
-I have found that code coverage in CLion on Windows only works well if you have installed and are using clang-cl, downloaded from LLVM.
+### Introduction
+
+I have found that code coverage in CLion on Windows works well if you have installed and are using clang-cl, downloaded from LLVM.
+
+Below I show two options to get coverage results in CLion on Windows:
+
+1. Using CLion's native 
+2. Using the C/C++ Coverage Plugin
+
+I recommend the latter, but both do work.
 
 ### Set up clang-cl in CLion on Windows
 
